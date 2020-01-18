@@ -1,3 +1,5 @@
 lion
 camel
 crocodile
+bird
+frog
